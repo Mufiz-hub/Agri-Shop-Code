@@ -1,0 +1,101 @@
+{
+    "categories" : [
+        {
+            "name": "Seeds",
+            "subcategory":[
+                "Flower Seeds",
+                "Vegetable Seeds",
+                "Fruit Seeds"
+       
+            ]
+        },
+        {
+            
+            "name": "Organic Products",
+            "subcategory":[
+                "Bio Fertilizers",
+                "Biopesticides",
+                "Organic Fertilizers"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Crops",
+            "subcategory":[
+                "Rice",
+                "Soyabean",
+                "Sugarcane"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Gardening",
+            "subcategory":[
+                "Gardening Inputs",
+                "Gardening Tools",
+                "Plant Pots and Grow Bags"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Pesticides",
+            "subcategory":[
+                "Insecticides",
+                "Fungicides",
+                "Herbicides"
+       
+            ]
+            
+        },
+
+        
+        {
+            
+            "name": "Fertilizers",
+            "subcategory":[
+                "Nano Fertilizers",
+                "Water Soluble Fertilizers",
+                "Speciality Fertilizers"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Agri Implements",
+            "subcategory":[
+                "Agri Wire",
+                "Sprayer Pumps",
+                "Tarpaulin Sheets"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Crop Care",
+            "subcategory":[
+                "Plant Growth Regulators",
+                "Traps and Lures"
+       
+            ]
+            
+        },
+        {
+            
+            "name": "Cattle Feed",
+            "subcategory":[
+                "Supplements",
+                "Ethno Veterinary Medicines"
+       
+            ]
+            
+        }
+    ]
+}
